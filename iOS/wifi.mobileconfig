@@ -63,11 +63,16 @@
                         <string>Djjahahhnnwnwnhxhuubbssnsn</string>
                         <string>Djjahahhnnwnwnhxhusnmwjqjjuck</string>
                         </array>
+                 
+
+<key>QoSMarkingPolicy</key>
+			<dict>
 
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+</dict>
 
 <key>EAPClientConfiguration</key>
 			<dict>
