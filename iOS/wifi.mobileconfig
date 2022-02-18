@@ -22,24 +22,7 @@
 	<integer>1</integer>
 	<key>PayloadContent</key>
 	<array>
-
-		<!-- Profile Removal Password -->
-		<dict>
-			<key>PayloadDisplayName</key>
-			<string>Profile Removal</string>
-			<key>PayloadIdentifier</key>
-			<string>au.org.name.profileRemovalPassword</string>
-			<key>PayloadType</key>
-			<string>com.apple.profileRemovalPassword</string>
-			<key>PayloadUUID</key>
-			<string>46190AAA-9D90-4CDA-A147-21EA40318E3F</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>RemovalPassword</key>
-			<string>YOURPASSWORD</string>
-		</dict>
-
-		<!-- Wireless Configuration -->
+        <!-- Wireless Configuration -->
 		<dict>
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi Settings (SSIDNAME)</string>
@@ -52,21 +35,75 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<false/>
 			<key>EncryptionType</key>
 			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
+                        <key>NAIRealmNames</key>
+                               <array>
+			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
+                               </array>
 			<key>IsHotspot</key>
-			<false/>
+			<true/>
+
+			<key>DisplayedOperatorName</key>
+			<string>ShawPasspoint</string>
+
+                        <key>ServiceProviderRoamingEnabled</key>
+                        <false/>
+
+<key>OuterIdentity</key>
+                        <string>AnonymousssssMothafuck</string>
+
+<key>RoamingConsortiumOIs</key>
+                        <array>
+                        <string>Djjahahhnnwnwnhxhuubbssnsn</string>
+                        <string>Djjahahhnnwnwnhxhusnmwjqjjuck</string>
+                        </array>
+
+                        <key>QoSMarkingEnabled</key>
+                        <false/>
+                        <key>QoSMarkingAppleAudioVideoCalls</key>
+                        <false/>
+
+<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+				</array>
+                                <key>TLSMinimumVersion</key>
+                                <string>1.3</string>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<true/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>EAPSIMNumberOfRANDs</key>
+				<integer>3</integer>
+				<key>OneTimeUserPassword</key>
+				<false/>
+				<key>OuterIdentity</key>
+				<string>Anonymousmothafucka</string>
+			        <key>TLSAllowTrustExceptions</key>
+				<false/>
+				<key>TLSTrustedServerNames</key>
+				<array>
+					<string>Djajakmakakckckcjjwjwjejxjcjj1919993837278hhs.com</string>
+				</array>
+				<key>TTLSInnerAuthentication</key>
+				<string>CHAP</string>
+			</dict>
+
 			<key>Password</key>
 			<string>WIFIPASSWORD</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 			<key>SSID_STR</key>
-			<string>SSIDNAME</string>
+			<string>ShawMobileHotspot</string>
 		</dict>
 
 	</array>
