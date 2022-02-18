@@ -22,24 +22,7 @@
 	<integer>1</integer>
 	<key>PayloadContent</key>
 	<array>
-
-		<!-- Profile Removal Password -->
-		<dict>
-			<key>PayloadDisplayName</key>
-			<string>Profile Removal</string>
-			<key>PayloadIdentifier</key>
-			<string>au.org.name.profileRemovalPassword</string>
-			<key>PayloadType</key>
-			<string>com.apple.profileRemovalPassword</string>
-			<key>PayloadUUID</key>
-			<string>46190AAA-9D90-4CDA-A147-21EA40318E3F</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>RemovalPassword</key>
-			<string>YOURPASSWORD</string>
-		</dict>
-
-		<!-- Wireless Configuration -->
+        <!-- Wireless Configuration -->
 		<dict>
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi Settings (SSIDNAME)</string>
@@ -52,9 +35,9 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
 			<key>EncryptionType</key>
 			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
@@ -62,11 +45,11 @@
 			<key>IsHotspot</key>
 			<false/>
 			<key>Password</key>
-			<string>WIFIPASSWORD</string>
+			<string>Jdjsjdjdjjsj72728827373772</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 			<key>SSID_STR</key>
-			<string>SSIDNAME</string>
+			<string>ShawMobileHotspot</string>
 		</dict>
 
 	</array>
