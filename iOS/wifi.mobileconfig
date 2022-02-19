@@ -76,6 +76,9 @@
 
 <key>QoSMarkingWhitelistedAppIdentifiers</key>
 <array>
+<string>com.apple.facetime</string>
+<string>com.apple.mobilesafari</string>
+
 </array>
 
 </dict>
