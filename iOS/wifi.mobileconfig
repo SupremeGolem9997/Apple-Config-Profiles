@@ -73,20 +73,6 @@
                         <true/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
-
-<key>QoSMarkingWhitelistedAppIdentifiers</key>
-<array>
-<string>com.apple.facetime</string>
-<string>com.apple.mobilesafari</string>
-<string>com.apple.mobilephone</string>
-<string>com.apple.mobilesms</string>
-
-<string>com.apple.WebBookmarks.webbookmarksd</string>
-<string>com.apple.WebBookmarks</string>
-<string>com.apple.mobilemail</string> 
-
-</array>
-
 </dict>
 
 <key>EAPClientConfiguration</key>
