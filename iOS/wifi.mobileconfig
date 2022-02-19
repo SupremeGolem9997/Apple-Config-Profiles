@@ -80,10 +80,9 @@
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <true/>
 
-<key>QoSMarkingWhitelisted</key>
+<key>QoSMarkingWhitelistedAppIdentifiers</key>
 <array>
 </array>
-AppIdentifiers
 
 </dict>
 
