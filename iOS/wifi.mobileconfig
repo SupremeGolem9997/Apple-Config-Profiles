@@ -56,6 +56,11 @@
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 
+<key>MCCAndMNCs</key>
+<array>
+<string>302310</string>
+</array>
+
 <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck192838</string>
 
