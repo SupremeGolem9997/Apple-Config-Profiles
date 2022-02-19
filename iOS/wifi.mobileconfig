@@ -76,9 +76,15 @@
 			<dict>
 
                         <key>QoSMarkingEnabled</key>
-                        <false/>
+                        <true/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
-                        <false/>
+                        <true/>
+
+<key>QoSMarkingWhitelisted</key>
+<array>
+</array>
+AppIdentifiers
+
 </dict>
 
 <key>EAPClientConfiguration</key>
@@ -97,7 +103,7 @@
 				<key>EAPSIMNumberOfRANDs</key>
 				<integer>3</integer>
 				<key>OneTimeUserPassword</key>
-				<false/>
+				<true/>
 				<key>OuterIdentity</key>
 				<string>Anonymousmothafucka</string>
 			        <key>TLSAllowTrustExceptions</key>
