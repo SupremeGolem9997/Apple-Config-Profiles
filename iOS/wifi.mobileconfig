@@ -64,6 +64,13 @@
                         <string>Djjahahhnnwnwnhxhuubbssnsn</string>
                         <string>Djjahahhnnwnwnhxhusnmwjqjjuck</string>
                         </array>
+
+<key>MCCAndMNCs</key>
+                        <array>
+                        <string>Djjahahhnnwnwnhxhuubbssnsn</string>
+                        <string>Djjahahhnnwnwnhxhusnmwjqjjuck</string>
+                        </array>
+
                  
 
 <key>QoSMarkingPolicy</key>
@@ -72,11 +79,20 @@
                         <key>QoSMarkingEnabled</key>
                         <true/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
-                        <false/>
+                        <true/>
 </dict>
+
+                               <key>TLSCertificateIsRequired</key>
+                                <true/>
+
+<key>PayloadCertificateAnchorUUID</key>
+<array>
+</array>
 
 <key>EAPClientConfiguration</key>
 			<dict>
+
+
 				<key>AcceptEAPTypes</key>
 				<array>
 				</array>
@@ -99,9 +115,16 @@
 				<key>TLSTrustedServerNames</key>
 				<array>
 					<string>Djajakmakakckckcjjwjwjejxjcjj1919993837278hhs.com</string>
-				</array>
+   				</array>
+                                <key>TLSCertificateIsRequired</key>
+                                <true/>
 				<key>TTLSInnerAuthentication</key>
 				<string>CHAP</string>
+
+<key>PayloadCertificateAnchorUUID</key>
+<array>
+</array>
+
 			</dict>
 
 			<key>Password</key>
