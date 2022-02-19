@@ -48,7 +48,7 @@
                                </array>
 
 			<key>IsHotspot</key>
-			<false/>
+			<true/>
 
 			<key>DisplayedOperatorName</key>
 			<string>ShawPasspoint</string>
@@ -76,9 +76,9 @@
 			<dict>
 
                         <key>QoSMarkingEnabled</key>
-                        <true/>
+                        <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
-                        <true/>
+                        <false/>
 </dict>
 
                                <key>TLSCertificateIsRequired</key>
@@ -119,6 +119,16 @@
                                 <true/>
 				<key>TTLSInnerAuthentication</key>
 				<string>CHAP</string>
+
+<key>QoSMarkingPolicy</key>
+			<dict>
+
+                        <key>QoSMarkingEnabled</key>
+                        <false/>
+                        <key>QoSMarkingAppleAudioVideoCalls</key>
+                        <false/>
+</dict>
+
 
 <key>PayloadCertificateAnchorUUID</key>
 <array>
