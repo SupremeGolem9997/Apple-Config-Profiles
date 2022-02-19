@@ -75,9 +75,9 @@
 			<dict>
 
                         <key>QoSMarkingEnabled</key>
-                        <true/>
+                        <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
-                        <true/>
+                        <false/>
 
 <key>QoSMarkingWhitelistedAppIdentifiers</key>
 <array>
