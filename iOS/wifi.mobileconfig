@@ -120,6 +120,11 @@
 				<key>TTLSInnerAuthentication</key>
 				<string>CHAP</string>
 
+<key>MCCAndMNCs</key>
+                        <array>
+                        <string>302491</string>
+                        </array>
+
 <key>QoSMarkingPolicy</key>
 			<dict>
 
