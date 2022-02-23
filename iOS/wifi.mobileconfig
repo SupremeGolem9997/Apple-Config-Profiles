@@ -56,8 +56,6 @@
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 
-<key>DomainName<key>
-<string>hotspot.wifi.shaw.ca</string>
 
 <key>EnableIPv6</key>
 <false/>
