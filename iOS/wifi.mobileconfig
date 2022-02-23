@@ -51,10 +51,19 @@
 			<true/>
 
 			<key>DisplayedOperatorName</key>
-			<string>ShawPasspoint</string>
+			<string>ShawMobileHotspot</string>
 
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+
+<key>DomainName<key>
+<string>hotspot.wifi.shaw.ca</string>
+
+<key>EnableIPv6</key>
+<false/>
+
+<key>Interface</key>
+<string>Jekemndnnemwmdjdjwij</string>
 
 <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck192838</string>
