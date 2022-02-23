@@ -74,7 +74,7 @@
 
 <key>MCCAndMNCs</key>
                         <array>
-                        <string>302491</string>
+                        <string>302490</string>
                         </array>
 
                  
@@ -101,8 +101,6 @@
 
 				<key>AcceptEAPTypes</key>
 				<array>
-                                <integer>17</integer>
-                                <integer>23</integer>
 				</array>
                                 <key>TLSMinimumVersion</key>
                                 <string>1.3</string>
@@ -131,7 +129,7 @@
 
 <key>MCCAndMNCs</key>
                         <array>
-                        <string>302491</string>
+                        <string>302490</string>
                         </array>
 
 <key>QoSMarkingPolicy</key>
