@@ -57,7 +57,7 @@
 			<false/>
 
 			<key>DisplayedOperatorName</key>
-			<string>ShawMobileHotspot</string>
+			<string>ShawPasspoint</string>
 
                         <key>ServiceProviderRoamingEnabled</key>
                         <true/>
@@ -145,7 +145,7 @@
 			<key>ProxyType</key>
 			<string>None</string>
 			<key>SSID_STR</key>
-			<string>ShawMobileHotspot</string>
+			<string>ShawPasspoint</string>
 		</dict>
 	</array>
 </dict>
