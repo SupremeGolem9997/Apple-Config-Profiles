@@ -42,13 +42,14 @@
 			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
+<key>HESSID</key>
                         <key>NAIRealmNames</key>
                                <array>
 			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
                                </array>
 
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 
 			<key>DisplayedOperatorName</key>
 			<string>ShawMobileHotspot</string>
