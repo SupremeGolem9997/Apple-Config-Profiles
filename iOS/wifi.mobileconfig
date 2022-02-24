@@ -60,7 +60,7 @@
 			<string>ShawMobileHotspot</string>
 
                         <key>ServiceProviderRoamingEnabled</key>
-                        <false/>
+                        <true/>
 
 
 <key>EnableIPv6</key>
@@ -89,8 +89,7 @@
 
 				<key>AcceptEAPTypes</key>
 				<array>
-                                <integer>17</integer>
-                                <integer>23</integer>
+
 				</array>
 
 <key>EnableIPv6</key>
@@ -122,7 +121,7 @@
 				<string>CHAP</string>
 
                        <key>ServiceProviderRoamingEnabled</key>
-                        <false/>
+                        <true/>
 
 
 <key>QoSMarkingPolicy</key>
