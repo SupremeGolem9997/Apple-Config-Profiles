@@ -50,7 +50,7 @@
 			<string>ShawMobileHotspot</string>
 
                         <key>ServiceProviderRoamingEnabled</key>
-                        <false/>
+                        <true/>
 
 
 <key>EnableIPv6</key>
