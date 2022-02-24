@@ -59,21 +59,6 @@
 
 <key>EnableIPv6</key>
 <false/>
-
-<key>OuterIdentity</key>
-                        <string>AnonymousssssMothafuck192838</string>
-
-<key>RoamingConsortiumOIs</key>
-                        <array>
-                        <string>Djjahahhnnwnwnhxhuubbssnsn</string>
-                        <string>Djjahahhnnwnwnhxhusnmwjqjjuck</string>
-                        </array>
-
-<key>MCCAndMNCs</key>
-                        <array>
-                        <string>302491</string>
-                        </array>
-
                  
 
 <key>QoSMarkingPolicy</key>
