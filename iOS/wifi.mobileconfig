@@ -47,7 +47,12 @@
 
                         <key>NAIRealmNames</key>
                                <array>
-			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
+			              <string>302490FQDN-AKA.com</string>
+                               </array>
+
+                      <key>RoamingConsortiumOIs</key>
+                               <array>
+			              <string>302490FQDN-AKA.com</string>
                                </array>
 
 			<key>IsHotspot</key>
