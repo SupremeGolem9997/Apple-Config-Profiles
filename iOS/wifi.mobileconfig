@@ -42,8 +42,6 @@
 			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-<key>HESSID</key>
-<string>f0:7f:06:d8:7e:9d</string>
 
                         <key>NAIRealmNames</key>
                                <array>
