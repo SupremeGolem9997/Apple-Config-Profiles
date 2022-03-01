@@ -37,14 +37,14 @@
 			<key>AutoJoin</key>
 			<false/>
 			<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 			
 			<key>AutoLogin</key>
 			<false/>
@@ -55,15 +55,15 @@
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 			<key>ProxyCaptiveLoginAllowed</key>
-				<true/>
+				<false/>
 						<key>EAPClientConfiguration</key>
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array></array>
 				<key>CaptiveBypass</key>
-				<true/>
+				<false/>
 				<key>ProxyCaptiveLoginAllowed</key>
-				<true/>
+				<false/>
 				<key>AutoJoin</key>
 				<false/>
 				</dict>
@@ -100,7 +100,7 @@
 			<key>AutoJoin</key>
 			<false/>
 			<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -110,14 +110,14 @@
 			<false/>
 
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 
 			
 
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 <key>ProxyCaptiveLoginAllowed</key>
-				<true/>
+				<false/>
 
 <key>EnableIPv6</key>
 <false/>
@@ -150,7 +150,7 @@
 			<key>AutoJoin</key>
 			<false/>
 			<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -160,14 +160,14 @@
 			<false/>
 
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 
 			
 
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 				<key>ProxyCaptiveLoginAllowed</key>
-				<true/>
+				<false/>
 
 
 <key>EnableIPv6</key>
@@ -204,23 +204,23 @@
 			<key>AutoLogin</key>
 			<false/>
 			<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>WPA2</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 
 			<key>EAPClientConfiguration</key>
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array></array>
 				<key>CaptiveBypass</key>
-				<true/>
+				<false/>
 				<key>ProxyCaptiveLoginAllowed</key>
-				<true/>
+				<false/>
 				<key>AutoJoin</key>
 				<false/>
 				</dict>
