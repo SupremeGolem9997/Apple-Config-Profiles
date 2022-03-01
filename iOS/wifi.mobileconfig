@@ -82,7 +82,8 @@
 			<string>None</string>
 			<key>SSID_STR</key>
 			<string>ShawMobileHotspot</string>
-			<dict>
+			</dict>
+		<dict>
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi Settings (SSIDNAME)</string>
 			<key>PayloadIdentifier</key>
