@@ -45,6 +45,9 @@
 
 			<key>IsHotspot</key>
 			<true/>
+			
+			<key>AutoLogin</key>
+			<false/>
 
 			<key>DisplayedOperatorName</key>
 			<string>ShawMobileHotspot</string>
@@ -99,8 +102,11 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>EncryptionType</key>
-			<string>WPA2</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
+			<false/>
+			
+			<key>AutoLogin</key>
 			<false/>
 
 			<key>IsHotspot</key>
@@ -146,8 +152,11 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>EncryptionType</key>
-			<string>WPA2</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
+			<false/>
+				
+			<key>AutoLogin</key>
 			<false/>
 
 			<key>IsHotspot</key>
@@ -190,6 +199,9 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>AutoJoin</key>
+			<false/>
+				
+			<key>AutoLogin</key>
 			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
