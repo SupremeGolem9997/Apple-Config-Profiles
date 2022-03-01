@@ -44,13 +44,26 @@
 			<false/>
 
 			<key>IsHotspot</key>
-			<false/>
+			<true/>
 
 			<key>DisplayedOperatorName</key>
 			<string>ShawMobileHotspot</string>
 
                         <key>ServiceProviderRoamingEnabled</key>
-                        <true/>
+                        <false/>
+			<key>ProxyCaptiveLoginAllowed</key>
+				<true/>
+						<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array></array>
+				<key>CaptiveBypass</key>
+				<true/>
+				<key>ProxyCaptiveLoginAllowed</key>
+				<true/>
+				<key>AutoJoin</key>
+				<false/>
+				</dict>
 
 
 <key>EnableIPv6</key>
@@ -69,6 +82,157 @@
 			<string>None</string>
 			<key>SSID_STR</key>
 			<string>ShawMobileHotspot</string>
+			<dict>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi Settings (SSIDNAME)</string>
+			<key>PayloadIdentifier</key>
+			<string>au.org.name.wifi1</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>0F4BBD96-0E97-4595-B431-F82FC151FC8F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>AutoJoin</key>
+			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+
+			<key>IsHotspot</key>
+			<true/>
+
+			
+
+                        <key>ServiceProviderRoamingEnabled</key>
+                        <false/>
+<key>ProxyCaptiveLoginAllowed</key>
+				<true/>
+
+<key>EnableIPv6</key>
+<false/>
+                 
+
+                              
+
+
+
+
+                        
+			<key>Password</key>
+			<string>jsjejen.iwiwieie8282</string>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>ShawGo</string>
+		</dict>
+			<dict>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi Settings (SSIDNAME)</string>
+			<key>PayloadIdentifier</key>
+			<string>au.org.name.wifi1</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>0F4BBD96-0E97-4595-B431-F82FC151FC8F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>AutoJoin</key>
+			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+
+			<key>IsHotspot</key>
+			<true/>
+
+			
+
+                        <key>ServiceProviderRoamingEnabled</key>
+                        <false/>
+				<key>ProxyCaptiveLoginAllowed</key>
+				<true/>
+
+
+<key>EnableIPv6</key>
+<false/>
+                 
+
+                              
+
+
+
+
+                        
+			<key>Password</key>
+			<string>jekekdj28828338</string>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>ShawOpen</string>
+		</dict>
+			<dict>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi Settings (SSIDNAME)</string>
+			<key>PayloadIdentifier</key>
+			<string>au.org.name.wifi1</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>0F4BBD96-0E97-4595-B431-F82FC151FC8F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>AutoJoin</key>
+			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+
+			<key>IsHotspot</key>
+			<true/>
+
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array></array>
+				<key>CaptiveBypass</key>
+				<true/>
+				<key>ProxyCaptiveLoginAllowed</key>
+				<true/>
+				<key>AutoJoin</key>
+				<false/>
+				</dict>
+
+                        <key>ServiceProviderRoamingEnabled</key>
+                        <false/>
+
+
+<key>EnableIPv6</key>
+<false/>
+                 
+
+                              
+
+
+
+
+                        
+			<key>Password</key>
+			<string>jddkkd82828339jdjd</string>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>ShawPasspoint</string>
+		</dict>
 		</dict>
 	</array>
 </dict>
