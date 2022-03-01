@@ -27,11 +27,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi Settings (SSIDNAME)</string>
 			<key>PayloadIdentifier</key>
-			<string>au.org.name.wifi1</string>
+			<string>au.org.name.wifi1114</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>0F4BBD96-0E97-4595-B431-F82FC151FC8F</string>
+			<string>0F4B22BD96-0E97-4595-B431-F82FC151FC8F</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>AutoJoin</key>
@@ -86,11 +86,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi Settings (SSIDNAME)</string>
 			<key>PayloadIdentifier</key>
-			<string>au.org.name.wifi1</string>
+			<string>au.org.name.wifi1555</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>0F4BBD96-0E97-4595-B431-F82FC151FC8F</string>
+			<string>0F4BBD96-0E927-45955-B431-F82FC151FC8F</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>AutoJoin</key>
@@ -133,11 +133,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi Settings (SSIDNAME)</string>
 			<key>PayloadIdentifier</key>
-			<string>au.org.name.wifi1</string>
+			<string>au.org.name.w2ifi1</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>0F4BBD96-0E97-4595-B431-F82FC151FC8F</string>
+			<string>0F4BBE96-0E97-4595-B431-F82FC151FC8F</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>AutoJoin</key>
@@ -181,11 +181,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi Settings (SSIDNAME)</string>
 			<key>PayloadIdentifier</key>
-			<string>au.org.name.wifi1</string>
+			<string>au.org.name.wifi12</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>0F4BBD96-0E97-4595-B431-F82FC151FC8F</string>
+			<string>0F4BBP96-0E97-4595-B43f1-F82FC151FC8F</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>AutoJoin</key>
