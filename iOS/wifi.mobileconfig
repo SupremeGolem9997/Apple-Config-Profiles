@@ -1,1 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict><key>PayloadContent</key><array><dict><key>APNs</key><array><dict><key>Name</key><string>Djejjsjddjj7282828282882jdnndjdjdjuwiwiieie88282828366jdjjddj.iwieieie&:&:&:&iwiieiw</string></dict></array><key>AttachAPN</key><dict><key>Name</key><string>jdjdjdjdj.iwieiieei2882837362627jdjdjjddj727373837jdjdjd73838</string></dict><key>PayloadDescription</key><string>From Chat r</string><key>PayloadDisplayName</key><string>Chat r</string><key>PayloadIdentifier</key><string>watarusuzuki.github.io.apn-profile</string><key>PayloadType</key><string>com.apple.cellular</string><key>PayloadUUID</key><string>4be0643f-1d98-573b-97cd-ca98a65347dd</string><key>PayloadVersion</key><real>1</real></dict></array><key>PayloadDisplayName</key><string>Chat r</string><key>PayloadIdentifier</key><string>watarusuzuki.github.io.apn-profile</string><key>PayloadRemovalDisallowed</key><false/><key>PayloadType</key><string>Configuration</string><key>PayloadUUID</key><string>f9dbd18b-90ff-58c1-8605-5abae9c50691</string><key>PayloadVersion</key><integer>1</integer></dict></plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>ConsentText</key>
+        <dict>
+            <key>default</key>
+            <string>Tapping "Install" will change your iPhone's APN to $$APN$$. Please ensure this is correct to avoid possible additional charges from $$CARRIERNAME$$.</string>
+        </dict>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>PayloadContent</key>
+                <array>
+                    <dict>
+                        <key>DefaultsData</key>
+                        <dict>
+                            <key>apns</key>
+                            <array>
+                                <dict>
+                                    <key>apn</key>
+                                    <string>Hsjdjdjdjej72728383838jdjdjdjdjd.uwiieiwei.jdjdjdjjd828282838jdjdjjd288228.com</string>
+                                    
+                                    <key>proxyPort</key>
+                                    <integer>0</integer>
+                                    
+                                </dict>
+                            </array>
+                        </dict>
+                        <key>DefaultsDomainName</key>
+                        <string>com.apple.managedCarrier</string>
+                    </dict>
+                </array>
+                <key>PayloadDescription</key>
+                <string>Provides customization of carrier Access Point Name.</string>
+                <key>PayloadDisplayName</key>
+                <string>APN</string>
+                <key>PayloadIdentifier</key>
+                <string>com.mweisman.apnchanger.apn</string>
+                <key>PayloadOrganization</key>
+                <string></string>
+                <key>PayloadType</key>
+                <string>com.apple.apn.managed</string>
+                <key>PayloadUUID</key>
+                <string>$$UUID1$$</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+            </dict>
+        </array>
+        <key>PayloadDescription</key>
+        <string>$$CARRIERDESC$$</string>
+        <key>PayloadDisplayName</key>
+        <string>$$CARRIERNAME$$</string>
+        <key>PayloadIdentifier</key>
+        <string>com.mweisman.apnchanger</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadRemovalDisallowed</key>
+        <false/>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>$$UUID2$$</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+    </dict>
+</plist>
